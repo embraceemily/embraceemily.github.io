@@ -135,6 +135,23 @@ h6 {
     margin-top: 0;
 }
 
+.progress {
+    position:relative;
+    height:70px;
+}
+
+.raised {
+    position:absolute;
+    left:10px;
+    top:9px;
+}
+
+.goal {
+    position:absolute;
+    right:10px;
+    top:9px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
