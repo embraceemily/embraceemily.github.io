@@ -152,6 +152,18 @@ h6 {
     top:9px;
 }
 
+#type {
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 200;
+    color: #333;
+}
+@media screen and (min-width: 768px) {
+    #type {
+        font-size: 23px;
+    }
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
