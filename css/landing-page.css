@@ -21,6 +21,11 @@ h6 {
     font-weight: 700;
 }
 
+.img-responsive {
+    border: 5px solid #e7e7e7;
+    border-radius: 5px;
+}
+
 .topnav {
     font-size: 14px; 
 }
@@ -35,7 +40,6 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/photo-intro.jpg) no-repeat center center;
     background-size: cover;
 }
 
