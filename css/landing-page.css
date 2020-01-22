@@ -21,6 +21,13 @@ h6 {
     font-weight: 700;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
 .img-responsive {
     border: 5px solid #e7e7e7;
     border-radius: 5px;
@@ -40,7 +47,6 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background-size: cover;
 }
 
 .intro-message {
