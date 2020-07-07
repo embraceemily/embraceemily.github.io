@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8bbd76c-f105-4481-98c6-95badc904572" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/interact.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +78,7 @@
       <workItem from="1579665285058" duration="9392000" />
       <workItem from="1592884531864" duration="25000" />
       <workItem from="1592884599885" duration="2725000" />
-      <workItem from="1593738135102" duration="1377000" />
+      <workItem from="1593738135102" duration="2190000" />
     </task>
     <servers />
   </component>
