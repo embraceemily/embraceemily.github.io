@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8bbd76c-f105-4481-98c6-95badc904572" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Jill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Lourdes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/nancy.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -19,9 +15,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="200e108f-257f-4e0b-9ef3-fe9324421c17" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
